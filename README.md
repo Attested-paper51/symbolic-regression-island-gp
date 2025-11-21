@@ -1,2 +1,2 @@
-# predator-prey-gp-deap
-Collaborated in a team of two to evolve a predator-prey algorithm using the DEAP Python genetic programming framework, enhancing skills in evolutionary computation programming.Outputted trace files to visualize the predator’s path, improving understanding of the predator-prey dynamics
+# Comparative Performance Analysis of Vanilla and Island Model Genetic Programming in Symbolic Regression
+This research paper presents a demonstration and comparison of Symbolic Regression using Vanilla (standard) Genetic Programming with Island Model Genetic Programming, implemented using the DEAP library. Symbolic regression involves the automatic discovery of mathematical expressions that best fit given datasets. The paper explores the application of genetic programming techniques to evolve symbolic expressions that predict target functions represented by sample dataset text files.
